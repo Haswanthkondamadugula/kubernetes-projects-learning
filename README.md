@@ -1,6 +1,7 @@
 # 🚀 **Practical Realtime Kubernetes Projects + Learning**  
 
-![kube](https://imgur.com/UI0WSZB.png)
+![image](https://github.com/user-attachments/assets/053aed30-3b6e-4e06-8f8b-243369e00ecd)
+
 
 A hands-on **Kubernetes learning repository** designed to help you **practice Kubernetes from scratch** by working on **real-time practical projects**. This repository will guide you through **deploying, managing, and scaling containerized applications** using Kubernetes.  
 
@@ -22,7 +23,7 @@ To get started, you need to:
 ✅ Install the **Kubernetes CLI (`kubectl`)**.  
 ✅ Set up a **Kubernetes cluster** in your local or cloud environment.  
 
-➡️ **Follow this guide to set up your environment:** [**Kubernetes CLI & Cluster Setup**](https://gist.github.com/NotHarshhaa/854ed5c12fff07acde88faf95b9decff)  
+➡️ **Follow this guide to set up your environment:** [**Kubernetes CLI & Cluster Setup**](https://gist.github.com/Haswanthkondamadugula/854ed5c12fff07acde88faf95b9decff)  
 
 💡 *Make sure to enable bash completion for `kubectl` to improve your experience!*  
 
@@ -34,11 +35,11 @@ This section provides structured learning materials to help you **understand Kub
 
 ### 📖 **Fundamental Concepts**  
 
-1️⃣ [**Kubernetes for Everyone**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/kubernetes-for-everyone/README.md)  
-2️⃣ [**What is a Pod in Kubernetes?**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/What-is-Pod-in-Kubernetes/README.md)  
-3️⃣ [**Deploying an Application on Kubernetes: A Complete Guide!**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/Deploying-an-Application-on-Kubernetes/README.md)  
-4️⃣ [**Kubernetes – Architecture and Main Components Overview**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/Kubernetes-components-overview/README.md)  
-5️⃣ [**How to Deploy DaemonSets Service in Kubernetes?**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/Deploy-DaemonSets-Service-in-Kubernetes/README.md)  
+1️⃣ [**Kubernetes for Everyone**](https://github.com/Haswanthkondamadugula/kubernetes-projects/blob/master/learning/kubernetes-for-everyone/README.md)  
+2️⃣ [**What is a Pod in Kubernetes?**](https://github.com/Haswanthkondamadugula/kubernetes-projects/blob/master/learning/What-is-Pod-in-Kubernetes/README.md)  
+3️⃣ [**Deploying an Application on Kubernetes: A Complete Guide!**](https://github.com/Haswanthkondamadugula/kubernetes-projects/blob/master/learning/Deploying-an-Application-on-Kubernetes/README.md)  
+4️⃣ [**Kubernetes – Architecture and Main Components Overview**](https://github.com/Haswanthkondamadugula/kubernetes-projects/blob/master/learning/Kubernetes-components-overview/README.md)  
+5️⃣ [**How to Deploy DaemonSets Service in Kubernetes?**](https://github.com/Haswanthkondamadugula/kubernetes-projects/blob/master/learning/Deploy-DaemonSets-Service-in-Kubernetes/README.md)  
 
 ✨ **More learning materials will be added soon!**  
 
@@ -50,10 +51,10 @@ This section contains **hands-on projects** that simulate real-world Kubernetes 
 
 ### 🚀 **Project List**  
 
-1️⃣ [**Designing a 10-Microservices Application Deployment on EKS**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/projects/10-microservices-deployment-eks/README.md)  
-2️⃣ [**Deploying a Spring Boot Application on Kubernetes**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/projects/Deploying-Spring-Boot-K8S/README.md)  
-3️⃣ [**Uber Clone DevSecOps CI/CD Kubernetes Project**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/projects/Uber-Clone-DevSecOps/README.md)  
-4️⃣ [**Deploy to Kubernetes Using Jenkins – End-to-End CI/CD Project**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/projects/Kubernetes-Using-Jenkins/README.md)  
+1️⃣ [**Designing a 10-Microservices Application Deployment on EKS**](https://github.com/Haswanthkondamadugula/kubernetes-projects/blob/master/projects/10-microservices-deployment-eks/README.md)  
+2️⃣ [**Deploying a Spring Boot Application on Kubernetes**](https://github.com/Haswanthkondamadugula/kubernetes-projects/blob/master/projects/Deploying-Spring-Boot-K8S/README.md)  
+3️⃣ [**Uber Clone DevSecOps CI/CD Kubernetes Project**](https://github.com/Haswanthkondamadugula/kubernetes-projects/blob/master/projects/Uber-Clone-DevSecOps/README.md)  
+4️⃣ [**Deploy to Kubernetes Using Jenkins – End-to-End CI/CD Project**](https://github.com/Haswanthkondamadugula/kubernetes-projects/blob/master/projects/Kubernetes-Using-Jenkins/README.md)  
 
 ✨ **More projects coming soon!**  
 
@@ -144,9 +145,9 @@ This section contains **hands-on projects** that simulate real-world Kubernetes 
 
 ## 🔥 **Kubernetes Cheat Sheets & Tools**
 
-- 📌 [kubectl Cheat Sheet](https://github.com/NotHarshhaa/devops-cheatsheet/blob/master/Containerization/Kubernetes.md)
-- 📌 [Helm Cheat Sheet](https://github.com/NotHarshhaa/devops-cheatsheet/blob/master/Containerization/Helm.md)
-- 📌 [Docker Cheat Sheet](https://github.com/NotHarshhaa/devops-cheatsheet/blob/master/Containerization/Docker.md)
+- 📌 [kubectl Cheat Sheet](https://github.com/Haswanthkondamadugula/devops-cheatsheet/blob/master/Containerization/Kubernetes.md)
+- 📌 [Helm Cheat Sheet](https://github.com/Haswanthkondamadugula/devops-cheatsheet/blob/master/Containerization/Helm.md)
+- 📌 [Docker Cheat Sheet](https://github.com/Haswanthkondamadugula/devops-cheatsheet/blob/master/Containerization/Docker.md)
 - 📌 [Kubernetes YAML Generator](https://www.k8syaml.com/)
 
 ---
@@ -165,17 +166,7 @@ Contributions are welcome! If you'd like to improve this project, feel free to s
 
 ## 🛠️ **Author & Community**  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
+This project is crafted by **[Haswanth](https://github.com/Haswanthkondamadugula)** 💡.  
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
----
 
-### 📧 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
-
----
-
-### 📢 **Stay Connected**  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
